@@ -67,5 +67,3 @@ b = [15, 16, 17]
 greater_than = [i>j for i,j in zip(a,b)]
 
 
-
-
