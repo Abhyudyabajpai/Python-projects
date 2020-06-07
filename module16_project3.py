@@ -14,3 +14,5 @@ print percentage_point_increase
 minimum_detectable_effect = 100.0 * percentage_point_increase/baseline_percent
 print minimum_detectable_effect
 ab_sample_size = 290
+# regular expression to match every phn number
+#([1\s(]+)?\d\d\d.\d\d\d.\d\d[10283]*
